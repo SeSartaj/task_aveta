@@ -6,9 +6,9 @@ This repository contains a Python implementation of a game that simulates the mo
 
 The code is organized into the following files:
 
-- main.py: Contains the main function that interacts with the user, prompts for input, and displays the results.
-- cat_mouse.py: Implements the catAndMouse function, which calculates the outcome based on the positions of the cats and the mouse.
-- test_cat_mouse.py: Includes unit tests to verify the correctness of the catAndMouse function.
+- **main.py**: Contains the main function that interacts with the user, prompts for input, and displays the results.
+- **cat_mouse.py**: Implements the catAndMouse function, which calculates the outcome based on the positions of the cats and the mouse.
+- **test_cat_mouse.py**: Includes unit tests to verify the correctness of the catAndMouse function.
 
 ## Getting Started
 
@@ -28,3 +28,8 @@ The repository includes unit tests to verify the correctness of the `catAndMouse
 
 1. Open a terminal and navigate to the project directory.
 2. Run the tests by executing the following command: `python -m unittest`
+
+I have uploaded the code to the GitHub repository. Here is the link: https://github.com/SeSartaj/task_aveta
+
+If you have any feedback or further instructions, please let me know.
+Thanks
