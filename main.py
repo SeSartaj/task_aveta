@@ -8,7 +8,11 @@ def main():
         raise ValueError("Number of queries should be between 1 and 100 (inclusive)")
 
     for _ in range(queries):
-        x, y, z = map(int, input("Enter the positions of Cat A, Cat B, and Mouse C: ").split())
+        try:
+            x, y, z = map(int, input("Enter the positions of Cat A, Cat B, and Mouse C: ").split())
+        except ValueError:
+            print("Invalid input. Please enter three integers separated by spaces.")
+            continue
         result = catAndMouse(x, y, z)
         print(result)
 
