@@ -10,7 +10,7 @@ The code is organized into the following files:
 - cat_mouse.py: Implements the catAndMouse function, which calculates the outcome based on the positions of the cats and the mouse.
 - test_cat_mouse.py: Includes unit tests to verify the correctness of the catAndMouse function.
 
-Getting Started
+## Getting Started
 
 To run the code and play the Cat and Mouse game, follow these steps:
 
@@ -22,7 +22,7 @@ To run the code and play the Cat and Mouse game, follow these steps:
 6. Provide the positions of Cat A, Cat B, and Mouse C for each query.
 7. The program will display the outcome for each query.
 
-Testing
+## Testing
 
 The repository includes unit tests to verify the correctness of the `catAndMouse` function. To run the tests, follow these steps:
 
